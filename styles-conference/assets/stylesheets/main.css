@@ -41,3 +41,16 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* ------------------------------------------------ */
+.hotdog p {
+	background: rgba(185, 130, 175, 0.45);
+	
+}
+
+.hotdog .mustard {
+	background: lightseagreen;
+}
+.hotdog p.mustard {
+	background:#538491;
+	width: 30em;
+}
